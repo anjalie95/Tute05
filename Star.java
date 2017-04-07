@@ -1,5 +1,5 @@
-Q1)
 /*
+Q1)
 Write a function to print following structure on the CLI using loops in java.
          *
          *
